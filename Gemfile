@@ -10,7 +10,7 @@ gem "decidim", "0.23.4"
 # gem "decidim-templates", "0.23.4"
 
 gem "bootsnap", "~> 1.3"
-
+gem "figaro", "~> 1.2.0"
 gem "puma", ">= 4.3.5"
 gem "uglifier", "~> 4.1"
 
